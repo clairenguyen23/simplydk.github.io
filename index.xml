@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DK&#39;s New Things </title>
+    <title>DK&#39;s New Things</title>
     <link>https://www.thequiettofu.com/</link>
+    <description>Recent content on DK&#39;s New Things</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>DK Nguyen</author>
-    <rights>(C) 1</rights>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
-
+    <lastBuildDate>Sun, 18 Sep 2016 01:13:37 -0700</lastBuildDate>
+    <atom:link href="https://www.thequiettofu.com/index.xml" rel="self" type="application/rss+xml" />
     
-
+    <item>
+      <title>Good to Great book</title>
+      <link>https://www.thequiettofu.com/post/good-to-great/</link>
+      <pubDate>Sun, 18 Sep 2016 01:13:37 -0700</pubDate>
+      
+      <guid>https://www.thequiettofu.com/post/good-to-great/</guid>
+      <description>&lt;p&gt;Holay molay this is supposed to be an awesome read, according to Hugo. I&amp;rsquo;m going through this tutorial so that I can make even more awesome stuff and website-y things later on!&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
