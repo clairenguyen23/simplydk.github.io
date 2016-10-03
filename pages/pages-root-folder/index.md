@@ -9,19 +9,20 @@ header:
   image_fullwidth: plain_blue_rectangle_withtofu.jpg
 widget1:
   title: "Tutorials"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: '/tutorials/'
   image: widget1.png
-  text: 'HOLY SHEET DER GON BE SUM TUTILAGEDS ERE'
+  text: "Wanna know how to make things my way? Here's where you can try any or all of them out."
 widget2:
   title: "Blog"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: '/blog/'
   image: widget2.png
-  text: 'OH FAK OMGAZZZZ SO MUCH THOTS'
+  text: "I've got a lot of things on my mind. If you wanna hear my thoughts, you can read them here."
 widget3:
   title: "Store"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: '/store/'
   image: widget3.png
-  text: 'BY MA STUFFZ YO GO DO DAT K'
+  text: "See anything you like from my tutorials? You can purchase some of them, specially handmade by me.
+        See some things in my store that I haven't made a tutorial for? Feel free to request tutorials and I might just hop on it!"
 #
 # Use the call for action to show a button on the frontpage
 #

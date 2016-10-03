@@ -1,9 +1,22 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Tutorials
+  url: "/tutorials/"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: Store
+  url: "/store/"
   side: left
 
 - title: "Templates"
@@ -59,15 +72,8 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-- title: "Search"
-  url: "/search/"
+- title: "About"
+  url: "/info/"
   side: right
 
 - title: "Contact"

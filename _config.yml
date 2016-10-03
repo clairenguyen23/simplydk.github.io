@@ -11,17 +11,20 @@
 title: 'The Quiet Tofu'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Flexible Theme for Jekyll'
+slogan: 'Quite quiet, but not quite.'
 
-# The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
-
-# The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+# The description is used on homepage and in the footer to quickly describe your website.
+# Use a maximum of 150 characters for SEO-purposes.
+description: "A website where you'll find curious things."
+# The credits show up in the includes/_footer.html –
+# It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
+credits: '<p>Created by <a href="http://github.com/simplydk/">SimplyDK</a> with
+          <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on
+          <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: simplydk
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -42,7 +45,7 @@ urlimg: '/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "blacktext_thequiettofu_only5_thickbox.png"
+logo: "blacktext_thequiettofu_only_thickbox.png"
 
 # Gems
 gems:
@@ -105,22 +108,22 @@ compress_html:
 defaults:
   -
     scope:
-      path: '' 				# an empty string here means all files in the project
+      path: '' 				    # an empty string here means all files in the project
       type: 'pages'
     values:
-      show_meta: false 	# Hide metadata for all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      show_meta: false 	  # Hide metadata for all pages
+      # sidebar:    		  # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: simplydk    # Default author for pages
   -
     scope:
       path: ''
       type: 'posts'
     values:
-      show_meta: true   # Show metadata for all posts
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
+      show_meta: true     # Show metadata for all posts
+      # sidebar:          # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: simplydk    # Default author for posts
 
 
 
@@ -191,8 +194,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: phlow
-    facebook: phlow.media
+    twitter: thequiettofu
+    facebook: thequiettofu
 
 
 #        ____  _
