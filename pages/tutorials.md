@@ -30,7 +30,7 @@ widget3:
 
 widget4:
   title: "Tutorial 4"
-  url: '/tutorials/'
+  url: '/tutorial4/'
   image: tutorial-widget4_220x133.png
   text: "Tutorial/actual life lesson, if you get the meaning of this image."
 ---
