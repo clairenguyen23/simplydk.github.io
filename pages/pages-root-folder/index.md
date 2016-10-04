@@ -23,6 +23,17 @@ widget3:
   image: widget3.png
   text: "See anything you like from my tutorials? You can purchase some of them, specially handmade by me.
         See some things in my store that I haven't made a tutorial for? Feel free to request tutorials and I might just hop on it!"
+
+widget4:
+  title: "Tutorials"
+  url: '/tutorials/'
+  image: widget1.png
+  text: "Wanna know how to make things my way? Here's where you can try any or all of them out."
+widget5:
+  title: "Blog"
+  url: '/blog/'
+  image: widget2.png
+  text: "I've got a lot of things on my mind. If you wanna hear my thoughts, you can read them here."
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -41,10 +52,10 @@ widget3:
 #########################
 permalink: /index.html
 
-#
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
-#
+# ONLY NEEDED FOR INDEX HOME PAGE
+# Don't set to true for other pages who use the front page layout
 homepage: true
 ---
 
