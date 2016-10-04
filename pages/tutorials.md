@@ -29,10 +29,10 @@ widget3:
   text: "Tutorial about how to make third thing."
 
 widget4:
-  title: "Tutorial4"
+  title: "Tutorial 4"
   url: '/tutorials/'
   image: tutorial-widget4_220x133.png
-  text: "Tutorial about how to make fourth thing."
+  text: "Tutorial/actual life lesson, if you get the meaning of this image."
 ---
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
