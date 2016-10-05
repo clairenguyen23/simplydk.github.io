@@ -16,11 +16,12 @@ slogan: 'Quite quiet, but not quite.'
 # The description is used on homepage and in the footer to quickly describe your website.
 # Use a maximum of 150 characters for SEO-purposes.
 description: "A website where you'll find curious things."
+
 # The credits show up in the includes/_footer.html –
 # It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created by <a href="http://github.com/simplydk/">SimplyDK</a> with
-          <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on
-          <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created by <a href="http://github.com/simplydk/">SimplyDK</a>
+          with <a href="http://jekyllrb.com/" target="_blank">Jekyll.</a>
+          Original theme by <a href="https://github.com/phlow">Phlow</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
