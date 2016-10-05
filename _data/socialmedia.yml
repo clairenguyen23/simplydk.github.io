@@ -13,6 +13,11 @@
   class: icon-facebook
   title: "Likes!"
 
+- name: LinkedIn
+  url: https://www.linkedin.com/in/dk-nguyen-43bbabb5
+  class: icon-linkedin
+  title: "Links!"
+
 - name: Twitter
   url: http://twitter.com/thequiettofu
   class: icon-twitter
