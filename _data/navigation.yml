@@ -23,7 +23,7 @@
 
 # RIGHT side of navigation bar
 - title: "About"
-  url: "/info/"
+  url: "/about/"
   side: right
 
 - title: "Contact"
