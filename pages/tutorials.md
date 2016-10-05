@@ -9,7 +9,7 @@ title:  "Tutorials"
 subheadline:  "Do it yourself!"
 teaser: "Wanna know how I make things? Here's where you can learn."
 header:
-   image_fullwidth: "plain_lightorange_rectangle_withtofu.jpg"
+   image_fullwidth: "plain_orange_rectangle_withtofu.png"
 permalink: "/tutorials/"
 
 widget1:
@@ -35,9 +35,11 @@ widget4:
   text: "Tutorial/actual life lesson, if you get the meaning of this image."
 ---
 
+<!--
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+-->

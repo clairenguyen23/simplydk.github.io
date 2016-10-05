@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: plain_blue_rectangle_withtofu.jpg
+  image_fullwidth: plain_blue_rectangle_withtofu.png
 widget1:
   title: "Tutorials"
   url: '/tutorials/'
@@ -21,19 +21,8 @@ widget3:
   title: "Store"
   url: '/store/'
   image: widget3.png
-  text: "See anything you like from my tutorials? You can purchase some of them, specially handmade by me.
+  text: "See anything you like from my tutorials? You can purchase some of my items here, specially handmade by me.
         See some things in my store that I haven't made a tutorial for? Feel free to request tutorials and I might just hop on it!"
-
-widget4:
-  title: "Tutorials"
-  url: '/tutorials/'
-  image: widget1.png
-  text: "Wanna know how to make things my way? Here's where you can try any or all of them out."
-widget5:
-  title: "Blog"
-  url: '/blog/'
-  image: widget2.png
-  text: "I've got a lot of things on my mind. If you wanna hear my thoughts, you can read them here."
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -59,9 +48,11 @@ permalink: /index.html
 homepage: true
 ---
 
+<!--
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+-->

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Formspree contact forms"
+meta_title: "Contact and use the contact form"
+subheadline: "Formspree contact form"
 teaser: "I'm not a robot! Or Mr. Robot."
 permalink: "/contact/"
 ---
