@@ -7,22 +7,30 @@
 layout: frontpage
 header:
   image_fullwidth: plain_blue_rectangle_withtofu.png
+
 widget1:
-  title: "Tutorials"
-  url: '/tutorials/'
-  image: widget1.png
-  text: "Wanna know how to make things my way? Here's where you can try any or all of them out."
+  title: "Projects"
+  url: '/projects/'
+  image: project1000_project_widget.png
+  text: "I made stuff! I really did! Come check some of them out!"
 widget2:
   title: "Blog"
   url: '/blog/'
-  image: widget2.png
+  image: widget1.png
   text: "I've got a lot of things on my mind. If you wanna hear my thoughts, you can read them here."
 widget3:
+  title: "Tutorials"
+  url: '/tutorials/'
+  image: origami_sonobe_tutorial_widget.png
+  text: "Wanna know how to make things my way? Here's where you can try any or all of them out."
+widget4:
   title: "Store"
   url: '/store/'
   image: widget3.png
   text: "See anything you like from my tutorials? You can purchase some of my items here, specially handmade by me.
         See some things in my store that I haven't made a tutorial for? Feel free to request tutorials and I might just hop on it!"
+
+permalink: /index.html
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -39,7 +47,6 @@ widget3:
 #  text: Inform me about new updates and features ›
 #  style: alert
 #########################
-permalink: /index.html
 
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation

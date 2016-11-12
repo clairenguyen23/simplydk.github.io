@@ -5,32 +5,32 @@
 # this work, you have to use › layout: frontpage
 #
 layout: tutorial
-title:  "Tutorials"
+title:  "Tutorials (More Coming Soon)"
 subheadline:  "Do it yourself!"
-teaser: "Wanna know how I make things? Here's where you can learn."
+teaser: "Wanna know how I do things? Here's where you can learn."
 header:
    image_fullwidth: "plain_orange_rectangle_withtofu.png"
 permalink: "/tutorials/"
 
 widget1:
-  title: "Tutorial 1"
-  url: '/tutorial1/'
-  image: tutorial-widget1_220x133.png
-  text: "Tutorial about how to make first thing."
+  title: "Origami Sonobe"
+  url: '/tutorials/origami-sonobe/'
+  image: origami_sonobe_tutorial_widget.png
+  text: "These colorful cubes and globes aren't too hard to make!"
 widget2:
   title: "Tutorial 2"
-  url: '/tutorial2/'
+  url: '/tutorials/tutorial2'
   image: tutorial-widget2_220x133.png
   text: "Tutorial about how to make second thing."
 widget3:
   title: "Tutorial 3"
-  url: '/tutorial3/'
+  url: '/tutorials/tutorial3'
   image: tutorial-widget3_220x133.png
   text: "Tutorial about how to make third thing."
 
 widget4:
   title: "Tutorial 4"
-  url: '/tutorial4/'
+  url: '/tutorials/tutorials'
   image: tutorial-widget4_220x133.png
   text: "Tutorial/actual life lesson, if you get the meaning of this image."
 ---
