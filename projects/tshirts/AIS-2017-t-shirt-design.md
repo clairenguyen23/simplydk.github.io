@@ -13,11 +13,11 @@ tags:
 # image:
 #     title:
 author: DK Nguyen
-permalink: "/projects/tshirts/AIS-2017"
+permalink: "/projects/t-shirt-designs/AIS-2017"
 ---
 Hey guys! So I'm part of the T-shirt committee this year again for the Alive In Spirit retreat in January 2017. I'm working with a few other talented gals to pool ideas together and make this year's shirt awesome!
 
-This year, the shirt is supposed to coincide with the theme, which is "prayer". It's a pretty abstract theme, but we managed to come up with some really good designs so far that implement "prayer" really well. Here are some of the ideas so far:
+This year, the shirt is supposed to coincide with the theme "prayer". It's a pretty abstract theme, but we managed to come up with some really good designs so far that implement "prayer" well. Here are some of the ideas so far:
 
 ![Sketches 1](/images/metanoia2017_sketches1.jpg "Sketches #1")
 ![Sketches 2](/images/metanoia2017_sketches2.jpg "Sketches #2")
@@ -25,7 +25,32 @@ This year, the shirt is supposed to coincide with the theme, which is "prayer". 
 
 Our silly sketches are chicken scratches so far, but I'll update this more when we have a finalized idea!
 
-We have a deadline: December 11th, 2016. It doesn't seem like it's near, but in the next four weeks, we'll have this ready.
-Stayed tuned! I'll be putting the tree-birds design into Inkscape as soon as I can!
+We have a deadline: December 11th, 2016. It doesn't seem like it's any time soon, but in the next four weeks, we'll have this ready.
 
-(Still in development)
+Stayed tuned!
+
+#### Update 1
+
+Here are the finalized sketches of the design we want on the front and back of the shirt:
+
+**Front:**
+![Front Sketch](/images/ais_front_sketch.jpg "Front Sketch")
+
+**Back:**
+![Back Sketch](/images/ais_back_sketch.jpg "Back Sketch")
+
+I'll be back with these sketches converted into svg format soon!
+
+#### Update 2
+
+Our shirt is done! Here it is:
+
+**Front:**
+![AIS 2017 Shirt (Front)](/images/ais_front_final.png "AIS 2017 Front")
+
+**Back:**
+![AIS 2017 Shirt (Back)](/images/ais_back_final.png "AIS 2017 Back")
+
+I used a combination of GIMP and Inkscape to get everything together. I might have mentioned this before, but I used to use a combination of Word and Paint to design stuff a long time ago since I didn't know that more advanced programs existed. Ever since I discovered these programs a few years ago, I haven't gone back to my old, caveman days, and implementing all of this without any help was a huge step forward for me.
+
+I also want to thank Emily Nguyen and Ngan Dinh! Working with them to put together design ideas, and their beautiful hand drawn sketches of the finalized design (Front: Ngan, Back: Emily) was more fun than it was work. Whoohoo!
