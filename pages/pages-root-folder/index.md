@@ -12,7 +12,7 @@ widget1:
   title: "Projects"
   url: '/projects/'
   image: project1000_project_widget.png
-  text: "I made stuff! I really did! Come check some of them out!"
+  text: "I made stuff! I really did! Come check some of them out."
 widget2:
   title: "Blog"
   url: '/blog/'

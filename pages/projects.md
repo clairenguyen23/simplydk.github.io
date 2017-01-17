@@ -8,25 +8,25 @@ header:
 permalink: "/projects/"
 
 widget1:
+  title: "Project 1000: Folding Wishes"
+  url: '/projects/project-1000/'
+  image: project1000_project_widget.png
+  text: "1000 cranes in one year? Yes I did, and I will again!"
+widget2:
+  title: "T-Shirt Designs"
+  url: '/projects/t-shirt-designs/'
+  image: metanoia_2014_project_widget.png
+  text: "Yep, you can wear this shirt."
+widget3:
   title: "WOW Games"
   url: '/projects/wowgames-project/'
   image: tilemap_cropped_project_project_widget.png
   text: "We did some awesome stuff!"
-widget2:
-  title: "Project 1000: Folding Wishes"
-  url: '/projects/project-1000-folding-wishes/'
-  image: project1000_project_widget.png
-  text: "1000 cranes in the span of one year? Yes I did."
-widget3:
+widget4:
   title: "The Quiet Tofu"
   url: '/projects/the-quiet-tofu-project/'
   image: thequiettofu_project_widget.png
   text: "Did you know this website is my biggest project yet?"
-widget4:
-  title: "T-Shirt Designs"
-  url: '/projects/t-shirt-designs/'
-  image: metanoia_2014_project_widget.png
-  text: "You can wear this shirt!"
 
 #widget4:
 #  title: "Project 4"
