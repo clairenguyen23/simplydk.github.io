@@ -30,3 +30,4 @@ Here are some of the designs I was a part of:
 
 **Alive In Spirit 2017:**
 ![Alive In Spirit 2017 Shirt](/images/aliveinspirit_2017.png "Alive In Spirit 2017 Shirt")
+(Check out the progress for this shirt **[here]({{ site.baseurl }}/projects/t-shirt-designs/AIS-2017)**!)

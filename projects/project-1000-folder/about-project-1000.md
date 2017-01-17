@@ -1,8 +1,8 @@
 ---
 layout: page
-subheadline: ""
+subheadline: "Paper cranes and real wishes"
 title:  "Project 1000: Folding Wishes"
-teaser: "Paper cranes and real wishes"
+# teaser: ""
 categories:
     - projects
 tags:
@@ -13,7 +13,7 @@ tags:
 image:
     title: project1000_project_title.png
 author: DK Nguyen
-permalink: "/projects/project-1000-folding-wishes/"
+permalink: "/projects/project-1000/about-project-1000/"
 ---
 One thousand cranes?
 
@@ -29,6 +29,6 @@ This year, 2017, I wanted to try a reboot and start the project over again. It's
 
 I used to use a regular digital camera or just my old phone's camera, but this time around, I have my own DSLR so I'll both be practicing my photography skills as well as be able to take better shots. I will also, instead of a few cranes every day which amounts to over 300 photos, be making a handful of cranes every week and end with just 52 photos by the end of the year.
 
-Well, wish me luck! I'll be starting soon!
+Well, wish me luck! Check it out **[here]({{ site.baseurl }}/projects/project-1000/project-1000-reboot/)**!
 
-You can check out the photos I took when I did this project in 2011 **[here](https://www.facebook.com/media/set/?set=a.169972456377543.30971.100000943695001&type=1&l=085510f770){:target="_blank"} (PART 1)** and **[here](https://www.facebook.com/media/set/?set=a.222668147774640.51854.100000943695001&type=1&l=6f2ec44c97){:target="_blank"} (PART 2)**!
+You can check out the photos I took when I did this project in 2011 **[here](https://www.facebook.com/media/set/?set=a.169972456377543.30971.100000943695001&type=1&l=085510f770){:target="_blank"} (PART 1)** and **[here](https://www.facebook.com/media/set/?set=a.222668147774640.51854.100000943695001&type=1&l=6f2ec44c97){:target="_blank"} (PART 2)**.
