@@ -1,10 +1,10 @@
 ---
 layout: page
-subheadline: ""
+subheadline: "January 1st to January 8th"
 title:  "Week One"
-teaser: "The Berry Beginning"
+teaser: "980 left"
 categories:
-    - projectss
+    - projects
 tags:
     - projects
     - cranes
