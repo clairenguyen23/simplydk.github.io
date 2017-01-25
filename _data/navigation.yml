@@ -6,6 +6,9 @@
 - title: Projects
   url: "/projects/"
   side: left
+  dropdown:
+  - title: "Project 1000: Reboot"
+    url: "/projects/project-1000/project-1000-reboot/"
 
 - title: Blog
   url: "/blog/"
