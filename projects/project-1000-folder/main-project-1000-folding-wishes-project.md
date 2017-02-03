@@ -10,7 +10,7 @@ title1: "Reboot"
 # teaser: "1000 of what?"
 weeks:
 - url: '/projects/project-1000/project-1000-reboot/'
-  image: Project1000_Reboot/proj1000_wk2.jpg
+  image: Project1000_Reboot/proj1000_wk4.jpg
 
 title2: "The Original (2011)"
 # subheadline:
@@ -28,5 +28,5 @@ widget2:
 ---
 # Project 1000: Folding Wishes
 
-1000 of what? And wait...reboot? Well, read more about this project **[here]({{ site.baseurl }}/projects/project-1000-reboot/about-project-1000)**!
+1000 of what? And wait...reboot? Well, read more about this project **[here]({{ site.baseurl }}/projects/project-1000-reboot/about-project-1000/)**!
 <p><a class="button tiny radius" href="{{ site.baseurl}}/projects/project-1000/about-project-1000">{{ site.data.language.more }}</a></p>
