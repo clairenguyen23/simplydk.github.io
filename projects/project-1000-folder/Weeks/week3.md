@@ -17,7 +17,7 @@ permalink: "/projects/project-1000/project-1000-reboot/week3/"
 ---
 Cranes 41-60
 
-Paper: journal paper, started folding them while waiting to be called during jury duty
+Paper & Setting: journal paper cranes, folded while waiting to be called during jury duty; picture taken outside when the rain let up a bit
 
 Long, lingering thoughts? Nah, relatively quiet week.
 
