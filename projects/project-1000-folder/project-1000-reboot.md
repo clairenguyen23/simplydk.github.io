@@ -24,6 +24,8 @@ weeks:
 - title: "Week Five"
   url: '/projects/project-1000/project-1000-reboot/week5/'
   image: Project1000_Reboot/proj1000_wk5.jpg
-
+- title: "Week Six"
+  url: '/projects/project-1000/project-1000-reboot/week6/'
+  image: Project1000_Reboot/proj1000_wk6.jpg
 ---
 # Project 1000: Reboot

@@ -10,7 +10,7 @@ title1: "Reboot"
 # teaser: "1000 of what?"
 weeks:
 - url: '/projects/project-1000/project-1000-reboot/'
-  image: Project1000_Reboot/proj1000_wk5.jpg
+  image: Project1000_Reboot/proj1000_wk6.jpg
 
 title2: "The Original (2011)"
 # subheadline:
