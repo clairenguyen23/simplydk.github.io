@@ -2,7 +2,7 @@
 layout: page
 subheadline: "February 5th to February 11th"
 title:  "Week Six"
-teaser: "872 left"
+teaser: "873 left"
 categories:
     - projects
 tags:
@@ -15,7 +15,7 @@ image:
 author: DK Nguyen
 permalink: "/projects/project-1000/project-1000-reboot/week6/"
 ---
-Cranes 109-128
+Cranes 109-127
 
 Paper & Setting: random white paper cranes scattered amongst all the Yu-Gi-Oh cards I have
 
