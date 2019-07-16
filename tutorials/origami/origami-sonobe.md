@@ -12,7 +12,7 @@ tags:
     - sonobe
 image:
     title: origami_sonobe_tutorial.jpg
-author: DK Nguyen
+author: Claire Nguyen
 permalink: "/tutorials/origami-sonobe/"
 ---
 

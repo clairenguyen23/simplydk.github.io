@@ -11,7 +11,7 @@ tags:
     - website
 image:
     title: thequiettofu_project_title.png
-author: DK Nguyen
+author: Claire Nguyen
 permalink: "/projects/the-quiet-tofu-project/"
 ---
 This entire website has been a huge project!

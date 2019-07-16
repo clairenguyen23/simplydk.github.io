@@ -12,7 +12,7 @@ permalink: "/contact/"
 Wanna talk to me? Or maybe you wanna just send a quick hello!  
 Either way, you can use the contact form below:
 
-<form method="POST" action="http://formspree.io/dkknguyen23@gmail.com">
+<form method="POST" action="http://formspree.io/clairenguyen23@gmail.com">
   <input type="email" name="email" placeholder="Your email">
   <textarea name="message" placeholder="Your message"></textarea>
   <input type="text" name="_gotcha" style="display:none" />

@@ -12,7 +12,7 @@ image:
     title: zerothehero_bluebackground_title.png
     thumb: zerothehero_bluebackground_thumb.png
     homepage: zerothehero_bluebackground_home.png
-author: DK Nguyen
+author: Claire Nguyen
 ---
 Zero the hero. And, yeah, "_first the worst_". I mean, first isn't always the worst, but I'll get on that another day.
 

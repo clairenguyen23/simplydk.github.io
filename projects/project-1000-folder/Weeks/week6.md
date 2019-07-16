@@ -12,7 +12,7 @@ tags:
     - folding paper
 image:
     title: Project1000_Reboot/proj1000_wk6.jpg
-author: DK Nguyen
+author: Claire Nguyen
 permalink: "/projects/project-1000/project-1000-reboot/week6/"
 ---
 Cranes 109-127

@@ -12,7 +12,7 @@ tags:
 #    title:
 #    thumb:
 #    homepage:
-author: DK Nguyen
+author: Claire Nguyen
 permalink: "/projects/about-my-projects/"
 ---
 Over the past few years, I've enjoyed creating different things as well as trying out new stuff. Some of them are physical creations, things I made to sell, display, gift, etc (check out my **[store]({{ site.baseurl }}/store/)** [still in development] and **[tutorials]({{ site.baseurl }}/tutorials/)** [still in development] to see some of my creations!) Others are things I've dabbled in by using software to design. One funny thing I always tell people is that when I was a lot younger, I didn't know what PhotoShop was, but the way I edited images and designed my own drawings was to use a combination of Microsoft Word and Paint. That was how I was able to utilize the concept of layers. It took a long time every time, but it worked for younger me.

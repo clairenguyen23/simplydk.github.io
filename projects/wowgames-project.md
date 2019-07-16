@@ -10,7 +10,7 @@ tags:
     - projects
 image:
     title: wowgames-dev-project.png
-author: DK Nguyen
+author: Claire Nguyen
 permalink: "/projects/wowgames-project/"
 ---
 During my last quarter at UCI, I decided to take a Game Development Project Class, even though I've never really considered doing anything related to games. While I was growing up, my parents didn't let me play video games (and many other things computer science-related) so I would sneak around and play at my friends' or play PC games in the computer lab at school. But since I never really was able to get into games like my friends could, doing anything related to making games was usually last on my list of things to do. I mostly decided to try this class out because my friend pushed me to do it and because there weren't any other classes that peaked my interest.

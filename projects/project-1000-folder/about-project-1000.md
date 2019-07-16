@@ -12,7 +12,7 @@ tags:
     - folding paper
 image:
     title: project1000_project_title.png
-author: DK Nguyen
+author: Claire Nguyen
 permalink: "/projects/project-1000/about-project-1000/"
 ---
 One thousand cranes?
